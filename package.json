@@ -1,0 +1,12 @@
+{
+  "name": "pnpm-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pnpm start -F next"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
